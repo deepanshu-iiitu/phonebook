@@ -7,8 +7,10 @@ namespace phonebook
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            
+
             int x = 0;
+            Console.WriteLine(x);
+
         }
     }
 }
