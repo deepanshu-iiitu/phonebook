@@ -6,7 +6,9 @@ namespace phonebook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello  changes  2 World!");
+            Console.WriteLine("Hello World!");
+            
+            int x = 0;
         }
     }
 }
